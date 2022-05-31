@@ -14,11 +14,7 @@
   text-align:center;
   color:#0F7619;
  }
-body { background-color: var(--blue);
-}
-
-    
-}
+body {background-color:#45F2F8;}
 
 .container {
  display: flex;
